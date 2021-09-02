@@ -1,0 +1,5 @@
+"uid","uname","uphone","umail","uaddress","upass","user_role"
+1,"admin",123456789,"admin@gmail.com","nikunjo 2","12345","admin"
+6,"manager",1825857470,"manager@gmail.com","asdas","1234","manager"
+8,"manager2",123456789,"d@gmail.com","eee","12345678","manager"
+14,"badhon",123456789,"b@gmail.com","fgdg","13456","customer"
